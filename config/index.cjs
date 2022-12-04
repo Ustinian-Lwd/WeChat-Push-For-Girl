@@ -93,8 +93,8 @@ const USER_CONFIG = {
     {
 
       name: '宝宝',
-      id: 'o0X4q6yOdSYIT1lRf9dg3WoiGryc',
-      useTemplateId: 'p1sH6gC8UrqHGhsQXurAvtvuE0UuGAPMQQqbVWCg9yk',
+      id: 'o0X4q68pY7eCs6V0KeGgdGVTx6og',
+      useTemplateId: 'iR9nsHw3TTLaCtb_iia1KH-tcBj1rPrkSBnHftfDw2E',
       province: '江西',
       city: '赣州',
 	  
@@ -112,10 +112,10 @@ const USER_CONFIG = {
         
 		// 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝宝', year: '1998', date: '10-08', isShowAge: true,
+          type: '生日', name: '宝宝', year: '1998', date: '10-08',
         },
         {
-          type: '节日', name: '周年纪念日', year: '2022', date: '03-05', isShowAge: true,
+          type: '节日', name: '周年纪念日', year: '2022', date: '03-05',
         }
       ],
 	  
