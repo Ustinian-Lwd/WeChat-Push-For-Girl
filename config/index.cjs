@@ -94,7 +94,7 @@ const USER_CONFIG = {
 
       name: '宝宝',
       id: 'o0X4q6yOdSYIT1lRf9dg3WoiGryc',
-      useTemplateId: '_xURW7fJXNT9fc89q8foIPSayWnteuZaGzYHCJOnEn8',
+      useTemplateId: 'um-P4q1WpRPXrkPFdy4N6owN0HhKE2rQtPGbZs8aCmo',
       province: '江西',
       city: '赣州',
 	  
