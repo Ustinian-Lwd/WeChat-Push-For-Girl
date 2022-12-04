@@ -155,7 +155,7 @@ const USER_CONFIG = {
       // 如果courseSchedule是一个数组，则认为不区分单双周，直接填写星期几对应的课表数据即可
       // 如果courseSchedule是一个对象（如下面所示）
       courseSchedule: null
-    }
+    }, 
 
     {
       name: '宝宝01',
