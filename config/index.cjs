@@ -61,10 +61,10 @@ const USER_CONFIG = {
     
     /** 天行API相关，需要config中配置 TIAN_API_KEY  */
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    // morningGreeting: true,
+    // morningGreeting: false,
   
     // 晚安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    // eveningGreeting: true,
+    // eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
     weather: 3,
@@ -78,7 +78,7 @@ const USER_CONFIG = {
   
   /** 是否给文字设置多彩颜色, 和emoji不兼容 */
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: false,
+  IS_SHOW_COLOR: true,
   
   /** 每日一言 */
   // 每日一言的内容类型
@@ -94,7 +94,7 @@ const USER_CONFIG = {
 
       name: '宝宝',
       id: 'o0X4q6yOdSYIT1lRf9dg3WoiGryc',
-      useTemplateId: 'GgXRHUlvI_o_TOOx8AGD4jih2P3LBMqN7fsaqIW6Okw',
+      useTemplateId: 'p1sH6gC8UrqHGhsQXurAvtvuE0UuGAPMQQqbVWCg9yk',
       province: '江西',
       city: '赣州',
 	  
@@ -115,7 +115,7 @@ const USER_CONFIG = {
           type: '生日', name: '宝宝', year: '1998', date: '10-08', isShowAge: true,
         },
         {
-          type: '节日', name: '认识纪念日', year: '2022', date: '01-24', isShowAge: true,
+          type: '节日', name: '周年纪念日', year: '2022', date: '03-05', isShowAge: true,
         }
       ],
 	  
